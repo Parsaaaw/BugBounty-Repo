@@ -135,15 +135,6 @@ jttdi.mil
 mc.mil
 mda.mil
 medicalmuseum.mil
-mil-exch07.
-mil-exch07.ssr-online.local
-mil-exch10.
-mil-exch10.ssr-online.local
-mil-international.nl
-mil-serv.
-mil-svr1.
-mil.af.maxwell.aurepm
-mil.af.maxwell.ausis.simapp
 milcorp.com
 miliberty.com
 militaryonesrouce.mil

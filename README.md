@@ -1,2 +1,2 @@
-# BugBounty-Repo
-This Repository for Company Recon
+# Description
+This Repository for Companies Recon
